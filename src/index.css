@@ -4,10 +4,12 @@
   margin: 0;
   box-sizing: border-box;
   font-family: Outfit;
+  
 }
 body{
   min-height: 100vh;
   background-color: #FCFCFC;
+  
 }
 a{
   text-decoration: none;
@@ -20,6 +22,7 @@ hr{
 }
 .app-content{
   display: flex;
+  background: #FFF8F0;
 }
 .flex-col{
   display: flex;
